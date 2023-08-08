@@ -21,7 +21,7 @@
     }
   },
   "scripts": {
-    "build": "tsc --sourcemap --noEmit false --declaration --outDir dist",
+    "build": "tsc --sourcemap --noEmit false --declaration --outDir dist"
   },
   "keywords": [
     "Promise",
