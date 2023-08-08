@@ -4,28 +4,23 @@ to debug natur for study
 ## 步骤
 ### 1. 安装依赖
 ```shell
- pnpm i
+  yarn
 ```
 
-### 2. 打包natur
+### 2. 打包awaitabler
 ```shell
- cd packages/natur
+ cd packages/awaitabler
  npm run build
 ```
 
-### 3. 打包natur-immer
+
+### 3. 启动demo
+根目录
 ```shell
- cd packages/natur-immer
- npm run build
+ yarn start
 ```
 
-### 4. 启动demo
-```shell
- cd packages/demo/ 
- npm run start
-```
-
-### 5.调试
+### 4.调试
 按 f5
 
 
